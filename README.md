@@ -1,5 +1,9 @@
 # Soundtrack music Quiz App
 
+#  a11y -REVISION
+
+### aXe doesn't report any problems with accessibility of the Quiz App. There are only recommendations to check the contrast between the  foreground text vs. the background color. This is not an issue because the contrast is ~18 which is in accordance with WCAG 2 AA recommendations.
+
 ## Description
 
 ### UX
